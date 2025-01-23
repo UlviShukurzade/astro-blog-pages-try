@@ -5,3 +5,5 @@ title: Home
 ```
 cdscsdcsdcd
 ```
+
+![](public/favicon.svg)
