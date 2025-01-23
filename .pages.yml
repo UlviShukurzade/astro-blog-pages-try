@@ -32,7 +32,7 @@ content:
   - name: home
     label: Home
     type: file
-    path: src/pages/index.md
+    path: src/pages/home.md
     fields:
       - { name: layout, type: string, hidden: true, default: "../layouts/AboutLayout.astro" }
       - { name: title, label: Title, type: string }
